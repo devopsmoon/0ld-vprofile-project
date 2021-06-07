@@ -15,7 +15,7 @@
       <password>admin123</password>
     </server>
         <server>
-        <id>Maven-Central-Repo</id>
+        <id>maven-central-repo</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
