@@ -28,9 +28,9 @@
 
   <mirrors>
     <mirror>
-      <id>Maven-Central-Repo</id>
-      <name>Maven-Central-Repo</name>
-      <url>http://172.31.34.0:8081/repository/vprofile-Maven-Group/</url>
+      <id>maven-central-repo</id>
+      <name>maven-central-repo</name>
+      <url>http://13.235.42.78:8081/repository/maven-central-repo/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
