@@ -159,7 +159,7 @@
 	<repositories>
     <repository>
       <id>vprofile-release</id>
-      <url>http://13.235.42.78:8081/repository/vprofile-release/</url>
+      <url>http://3.108.250.235:8081/repository/vprofile-release/</url>
     </repository>
   </repositories>
 </project>
