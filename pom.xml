@@ -159,7 +159,7 @@
 	<repositories>
     <repository>
       <id>vprofile-release</id>
-      <url>http://65.0.183.0:8081/repository/vprofile-release/</url>
+      <url>http://13.232.5.140:8081/repository/maven-central-repo/</url>
     </repository>
   </repositories>
 </project>
