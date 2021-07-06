@@ -206,7 +206,7 @@
             <repositories>
     <repository>
       <id>vprofile-release</id>
-      <url>http://3.108.223.119:8081/repository/vprofile-release/</url>
+      <url>http://65.0.180.141:8081/repository/vprofile-release/</url>
     </repository>
   </repositories>
 
