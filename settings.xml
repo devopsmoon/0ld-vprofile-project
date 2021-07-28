@@ -5,12 +5,12 @@
 
   <servers>
     <server>
-      <id>vprofile-snapshot</id>
+      <id>vprofile-snapshots</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
     <server>
-      <id>vprofile-release</id>
+      <id>vprofile-releases</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
@@ -30,7 +30,7 @@
     <mirror>
       <id>maven-central-repo</id>
       <name>maven-central-repo</name>
-      <url>http://3.109.1.52:8081/repository/maven-central-repo/</url>
+      <url>http://13.232.100.193:8081/repository/maven-central-repo/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
