@@ -30,7 +30,7 @@
     <mirror>
       <id>maven-central-repo</id>
       <name>maven-central-repo</name>
-      <url>http://3.109.1.52:8081/repository/maven-central-repo/</url>
+      <url>http://65.2.129.113:8081/repository/maven-central-repo/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
