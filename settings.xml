@@ -5,12 +5,12 @@
 
   <servers>
     <server>
-      <id>vprofile-snapshot</id>
+      <id>vprofile-snapshots</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
     <server>
-      <id>vprofile-release</id>
+      <id>vprofile-releases</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
